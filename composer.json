@@ -1,0 +1,17 @@
+{
+    "name": "prakom/belajar-repository",
+    "description": "belajar buat repo",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Prakom\\MembuatRepository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prakom",
+            "email": "ariefirawant@gmail.com"
+        }
+    ],
+    "require": {}
+}
